@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: {{ .Values.12345 }}
+  name: {{ .Values.12345677 }}
 spec:
   selector:
     matchLabels:
